@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Coming Soon](Coming Soon)
 
-- 💬 Ask me about **PHP, HTML, CSS, JS**
+- 💬 Ask me about **PHP, HTML, CSS, JS, Pentest, Security**
 
 - 📫 How to reach me **levitieanorossi@proton.me**
 
